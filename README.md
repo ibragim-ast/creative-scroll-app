@@ -16,5 +16,5 @@
 
 ## Ссылки
 
-[Репозиторий](https://github.com/ibragim-ast/creative-scroll-app)
-[Демо](https://ibragim-ast.github.io/creative-scroll-app/)
+- [Репозиторий](https://github.com/ibragim-ast/creative-scroll-app)
+- [Демо](https://ibragim-ast.github.io/creative-scroll-app/)
